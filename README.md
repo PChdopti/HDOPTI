@@ -3,7 +3,7 @@ HD OPTI – Automated PC Optimization &amp; FPS Booster for gamers.
 # HD OPTI — Automated PC Optimization & FPS Booster
 
 **HD OPTI** is a powerful automated PC optimization tool designed for gamers and performance enthusiasts.  
-It instantly boosts **FPS**, reduces **input latency**, optimizes system settings, and improves overall PC responsiveness with one click. :contentReference[oaicite:1]{index=1}
+It instantly boosts **FPS**, reduces **input latency**, optimizes system settings, and improves overall PC responsiveness with one click.
 
 ---
 
