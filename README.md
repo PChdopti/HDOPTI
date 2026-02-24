@@ -40,7 +40,7 @@ You can also check our guides and optimization articles:
 
 Stay up to date and follow HD OPTI on social media:
 - Twitter / X: https://x.com/HDOPTI  
-- Instagram: https://www.instagram.com/hdopti  
+- Tiktok: https://www.tiktok.com/@hdopti  
 - YouTube: https://www.youtube.com/@HDOPTI
 
 ---
@@ -48,6 +48,8 @@ Stay up to date and follow HD OPTI on social media:
 ## 📣 Community & Support
 
 Join our community to get optimization tips, gaming settings, and direct help from the team and other gamers.
+
+- Discord - https://discord.gg/nGfR9DveVd
 
 ---
 
